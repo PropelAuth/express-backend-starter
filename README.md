@@ -1,8 +1,8 @@
 ## Express PropelAuth Starter
 
-This repo contains a forkable Express backend which uses [PropelAuth](https://www.propelauth.com/?utm_campaign=github) to validate access tokens sent from your frontend.
+This repo contains a forkable Express backend which uses [PropelAuth](https://www.propelauth.com/?utm_campaign=github) where users can sign up, login, manage their accounts, and view organization and member information.
 
-[Here](https://docs.propelauth.com/example-apps/apps) are guides which will walk you through the code in this repo.
+[Here](https://docs.propelauth.com/example-apps/apps) are guides which will walk you through how to use this frontend code with a variety of frontend library options.
 
 You can use this with any compatible frontend, like the [React PropelAuth Starter](https://github.com/PropelAuth/react-frontend-starter)
 
